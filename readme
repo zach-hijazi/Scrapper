@@ -1,3 +1,5 @@
 
 *** web scrapping project ***
 
+getting around proxy issues for python 
+-> pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org
